@@ -199,7 +199,7 @@ const Sidebar = ({
               <Box
                 component="img"
                 alt="profile"
-                src={myPicture}
+                src={profileImage}
                 height="40px"
                 width="40px"
                 borderRadius="50%"
