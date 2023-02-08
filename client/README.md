@@ -1,6 +1,11 @@
 # Admin dashboard App
 
-This repository contains an admin dashboard using the MERN stack. Please follow the instructiions to set it up.
+This repository contains an admin dashboard using the MERN stack.
+An Admin dash board fullstack application using MERN, frontend consist of material ui for styling, material
+data grid for tables, nivo for charts, Redux toolkit for state management , Redux toolkit query for making
+API calls while backend is node js, express js and Mongoose for managing mongodb
+
+Please follow the instructiions to set it up.
 
 **Features**
 
